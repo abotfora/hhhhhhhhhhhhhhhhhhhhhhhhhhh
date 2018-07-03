@@ -21,4 +21,4 @@ client.on('ready', () => {
      client.user.setActivity("-help",{type: 'WATCHING'})
 
 });
-clinet.login(process.env.BOT_TOKEN)
+clinet.login(process.env.BOT_TOKEN);
